@@ -14,3 +14,9 @@ Note: change the version of python as per the system incase the above command gi
 command for opening tmux is:
 	tmux
 
+```python
+import numpy
+```
+
+
+
